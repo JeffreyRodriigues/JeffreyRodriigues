@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Meu perfil Rocket Seat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-brightgreen)](https://app.rocketseat.com.br/me/jeffrey-rodrigues-innocencio-06275)
+[![Perfil Rocket Seat](https://img.shields.io/badge/Perfil-Rocketseat-brightgreen)](https://app.rocketseat.com.br/me/jeffrey-rodrigues-innocencio-06275)
+[![Perfil GitHub](https://img.shields.io/github/followers/JeffreyRodriigues?style=social)](https://github.com/JeffreyRodriigues)
+
