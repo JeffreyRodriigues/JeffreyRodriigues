@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**JeffreyRodriigues/JeffreyRodriigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **JeffreyRodriigues/JeffreyRodriigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
 
 [![Perfil Rocket Seat](https://img.shields.io/badge/Perfil-Rocketseat-brightgreen)](https://app.rocketseat.com.br/me/jeffrey-rodrigues-innocencio-06275)
 [![Perfil GitHub](https://img.shields.io/github/followers/JeffreyRodriigues?style=social)](https://github.com/JeffreyRodriigues)
