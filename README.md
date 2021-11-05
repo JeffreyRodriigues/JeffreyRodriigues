@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <div>  
-  <a href="https://www.linkedin.com/in/jeffreyrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:jeffrey.rodriigues@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jeffreyrodrigues" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF" target="_blank"></a> 
+ <a href = "mailto:jeffrey.rodriigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF" target="_blank"></a>
  </div>
  
  ##
