@@ -1,6 +1,6 @@
-### Olá, tudo bem ? 👋
+## Olá, tudo bem ? 👋
 
-# Sejam bem vindes.
+### Sejam bem vindes.
 
 - Eu me chamo Jeffrey, e atualmente estou em formação para me tornar um desenvolvedor full stack.<br>
 - Com minha base já criada através de muita lógica, agora estou aprendendo algumas linguagens.
@@ -32,12 +32,12 @@ Here are some ideas to get you started:
  ##
  
 <br>
-<div>
+<div align="center" style="display: inline_block">
   <a href="https://github.com/JeffreyRodriigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffreyRodriigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyRodriigues&layout=compact&langs_count=7&theme=dark"/>
 </div>
-</div>
+
 
 <div style="display: inline_block"><br>
  
@@ -45,7 +45,6 @@ Here are some ideas to get you started:
   <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
   <img align="center" alt="GitHub" height="40px"          src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img align="center" alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/528/528260.png" />
-  
   <img align="center" alt="Jeff-HTML" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jeff-CSS" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jeff-Js" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
