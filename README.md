@@ -3,7 +3,7 @@
 
 ### Sejam bem vindes.
 
-- Eu me chamo Jeffrey, e atualmente estou em formação para me tornar um desenvolvedor full stack.<br>
+- Eu me chamo Jeffrey, e atualmente estou em formação para me tornar um desenvolvedor.<br>
 - Com minha base já criada através de muita lógica, agora estou aprendendo algumas linguagens.
 
 
