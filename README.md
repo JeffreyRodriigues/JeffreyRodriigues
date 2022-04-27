@@ -3,8 +3,9 @@
 
 ### Sejam bem vindes.
 
-- Eu me chamo Jeffrey, e atualmente estou em formação para me tornar um desenvolvedor.<br>
-- Com minha base já criada através de muita lógica, agora estou aprendendo algumas linguagens.
+- Eu me chamo Jeffrey, sou um desenvolvedor que busca aprender cada vez mais, e contribuir com a comunidade Dev.<br>
+- Com minha base já criada através de muita lógica, estou adquirindo conhecimentos práticos em meu atual trabalho,
+  procurando soluções de forma dinâmica e ágil.
 
 
 
