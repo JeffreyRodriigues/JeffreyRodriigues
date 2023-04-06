@@ -1,8 +1,5 @@
 ## <h1 align="left">Olá, tudo bem ? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> 
 
-
-### Sejam bem vindes.
-
 - Eu me chamo Jeffrey, sou um desenvolvedor que busca aprender cada vez mais, e contribuir com a comunidade Dev.<br>
 - Com minha base já criada através de muita lógica, estou adquirindo conhecimentos práticos em meu atual trabalho,
   procurando soluções de forma dinâmica e ágil.
