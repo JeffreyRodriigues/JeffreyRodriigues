@@ -29,8 +29,6 @@ Here are some ideas to get you started:
  </div>
  
  ##
-[![Perfil GitHub](https://img.shields.io/github/followers/JeffreyRodriigues?style=social)](https://github.com/JeffreyRodriigues)
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-JeffreyRodriigues&color=ff69b4&style=flat&label=visitors)
